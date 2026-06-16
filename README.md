@@ -25,7 +25,9 @@
 ### **Plataforma de Actualización Financiera y de Noticias**
 Desarrollo de una aplicación web completa que se integra con APIs financieras y de noticias para proporcionar actualizaciones de activos y mercados en tiempo real.
 - **Backend:** Python + Flask con persistencia de datos mediante SQLAlchemy.
-- **Características:** Consumo eficiente de APIs externas, procesamiento de flujos de información y arquitectura modular.</h3>
+- **Características:** Consumo eficiente de APIs externas, procesamiento de flujos de información y arquitectura modular.
+- https://github.com/Neruoal/Proyecto-Final-4Geeks
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
