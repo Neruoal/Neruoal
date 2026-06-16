@@ -1,6 +1,5 @@
 # ¡Hola! Soy Manuel Lareo 👋
 
-<h1 align="center">¡Hola! Soy Manuel Lareo 👋</h1>
 <h3 align="center">Desarrollador Full-Stack apasionado por crear aplicaciones web eficientes, robustas y escalables. Cuento con una sólida formación técnica combinada con una perspectiva única en Comunicación Audiovisual, lo que me permite conectar la lógica del código con una presentación visual e intuitiva para el usuario.
 
 ## 🚀 Sobre mí
