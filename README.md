@@ -29,7 +29,7 @@ Desarrollo de una aplicación web completa que se integra con APIs financieras y
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[Linkedin](www.linkedin.com/in/manuel-lareo-garcía)
+www.linkedin.com/in/manuel-lareo-garcía
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
