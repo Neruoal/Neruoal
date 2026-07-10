@@ -1,6 +1,7 @@
 # ¡Hola! Soy Manuel Lareo 👋
 
-<h3 align="center">Desarrollador Full-Stack apasionado por crear aplicaciones web eficientes, robustas y escalables. Cuento con una sólida formación técnica combinada con una perspectiva única en Comunicación Audiovisual, lo que me permite conectar la lógica del código con una presentación visual e intuitiva para el usuario.
+<h3 align="center">Desarrollador Full Stack, especializado en Backend con experiencia en la creación de proyectos con Python, Flask y MySQL.
+
 
 ## 🚀 Sobre mí
 
